@@ -1,1 +1,1 @@
-# rest-with-spingboot-and-java-erudio
+# rest-with-spingboot-and-java
